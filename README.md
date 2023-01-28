@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Kyle Moore! I am a Software Developer who enjoys everything that encompasses Computers and Technology!
 
 <!--
 **KyoKyle64/KyoKyle64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
