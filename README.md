@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning __Computer Logic Design, and Data Structures/Algorithm Analysis.__
 - 💬 Ask me about ... _**Anything computer science**_
 - 📫 How to reach me: ... PLACEHOLDER
-- ⚡ Fun fact: ... I greatly enjoy researching and studying social sciences!
+- ⚡ Fun fact: ... I also greatly enjoy researching and studying social sciences!
 
 
 
