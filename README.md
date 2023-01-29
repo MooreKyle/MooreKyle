@@ -8,7 +8,7 @@
 
 
 
-If you have any interesting ideas for projects, especially in the area of IoT (Internet of Things), I would love to hear about them, and consider exploring them!
+If you have any interesting ideas for projects, especially in the area of IoT (Internet of Things), I would love to hear about them and explore them. I will also like to hear about what you do in your field of study.
 
 Thank you for stopping by!
 
