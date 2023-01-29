@@ -1,6 +1,6 @@
 ### Hello 👋 I am Kyle Moore! I am a Computer Science Student who enjoys Software Development and Computer Programming. I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
 
-- 🔭 I’m currently working on ... **my resume**
+- 🔭 I’m currently working on ... **My Resume and Github Portfolio**
 - 🌱 I’m currently learning __Computer Logic Design, and Data Structures/Algorithm Analysis.__
 - 💬 Ask me about ... _**Anything computer science**_
 - 📫 How to reach me: ... PLACEHOLDER
