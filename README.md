@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **my resume and github portfolio**
 - 🌱 I’m currently learning __Computer Logic Design, and Data Structures/Algorithm Analysis.__
-- 💬 Ask me about _**anything computer science**_
+- 💬 Ask me about _**python, and projects I have worked on.**_
 - 📫 How to reach me: PLACEHOLDER
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
 
