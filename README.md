@@ -1,7 +1,7 @@
 ### Hello 👋, I am Kyle Moore - A Computer Science: Software Development Student who enjoys the aforementioned and Computer Programming. I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
 
 - 🔭 I’m currently working on **my resume, github, and linkedin portfolios**
-- 🌱 I’m currently learning __Computer Logic Design, and Data Structures/Algorithm Analysis.__
+- 🌱 I’m currently learning __Computer Logic Design, Data Structures/Algorithm Analysis, and Matrix Theory.__
 - 💬 Ask me about **python, and projects I have worked on.**
 - 📫 How to reach me: PLACEHOLDER
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
