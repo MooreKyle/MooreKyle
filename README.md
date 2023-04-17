@@ -14,7 +14,7 @@ Thank you for stopping by!
 
 
 
-**My Programming Languages: PLACEHOLDER**
+**My Programming Languages: Python, C, C++, C#, Java, SQL**
 
 **Donations: PLACEHOLDER**
 
