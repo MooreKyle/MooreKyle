@@ -12,6 +12,12 @@ If you have any interesting ideas for projects, especially in the area of IoT (I
 
 Thank you for stopping by!
 
+
+
+**My Programming Languages: PLACEHOLDER**
+
+**Donations: PLACEHOLDER**
+
 <!--
 **KyoKyle64/KyoKyle64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
