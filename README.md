@@ -15,6 +15,7 @@ Thank you for stopping by!
 
 
 **My Programming Languages: Python, C, C++, C#, Java, SQL**
+**My Other Skills/Resources: Windows, Linux
 
 **Donations: PLACEHOLDER**
 
