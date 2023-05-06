@@ -16,7 +16,7 @@ Thank you for stopping by!
 
 
 
-**My Programming Languages: Python, C, C++, C#, Java, SQL**
+**My Programming Languages: Python, C, C++, C#, Java, SQL, Hack Assembly**
 
 **My Other Skills/Resources: Windows, Linux**
 
