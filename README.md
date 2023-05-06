@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **my resume, github, linkedin, indeed, and handshake portfolios**
 - 🌠 In the future, I will be working on **a website portfolio**
-- 🌱 I’m currently learning __JPMorgan Chase & Co. Software Engineering Experience Program.__
+- 🌱 I’m currently learning __JPMorgan Chase & Co.'s Software Engineering Experience Program.__
 - 🚀 In the future, I will be learning **Computer Architecture, Computer Operating Systems, and Internet Computing**
 - 💬 Ask me about **python, technology, and projects I have worked on.**
 - 📫 How to reach me: moorekl@protonmail.com
