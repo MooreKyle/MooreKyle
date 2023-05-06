@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **my resume, github, linkedin, indeed, and handshake portfolios**
 - 🌱 I’m currently learning __Computer Logic Design, Data Structures/Algorithm Analysis, and Matrix Theory.__
-- 💬 Ask me about **python, and projects I have worked on.**
-- 📫 How to reach me: PLACEHOLDER
+- 💬 Ask me about **python, technology, and projects I have worked on.**
+- 📫 How to reach me: moorekl@protonmail.com
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
 
 
