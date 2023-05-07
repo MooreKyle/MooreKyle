@@ -1,7 +1,7 @@
 ### Hello 👋, I am Kyle Moore - A Computer Science: Software Development Student who enjoys the aforementioned and Computer Programming. I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
 
 - 🔭 I’m currently working on **my resume, github, linkedin, indeed, and handshake portfolios**
-- 🌠 In the future, I will be working on **a website portfolio**
+- 🌠 In the future, I will be working on **a website portfolio, and instagram technology page**
 - 🌱 I’m currently learning __JPMorgan Chase & Co.'s Software Engineering Virtual Experience Program.__
 - 🚀 In the future, I will be learning **Computer Architecture, Computer Operating Systems, and Internet Computing**
 - 💬 Ask me about **python, technology, and projects I have worked on.**
