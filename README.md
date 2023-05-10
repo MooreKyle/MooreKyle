@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **my resume, github, linkedin, indeed, and handshake portfolios**
 - 🌠 In the future, I will be working on **a website portfolio, and instagram technology page**
-- 🌱 I’m currently learning __JPMorgan Chase & Co.'s Software Engineering Virtual Experience Program.__
-- 🚀 In the future, I will be learning **Computer Architecture, Computer Operating Systems, and Internet Computing**
+- 🌱 I’m currently learning __Computer Architecture, Computer Operating Systems, and Internet Computing.__
+- 🚀 In the future, I will be learning **...**
 - 💬 Ask me about **python, technology, and projects I have worked on.**
 - 📫 How to reach me: moorekl@protonmail.com
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
@@ -18,9 +18,18 @@ Thank you for stopping by!
 
 **My Programming Languages: Python, C, C++, C#, Java, SQL, Hack Assembly**
 
-**My Other Skills/Resources: Windows, Linux**
+**My Other Skills/Resources: Microsoft Office, Git, Windows OS, Linux Ubuntu OS, Android OS, iOS, Photography, Raspbian OS**
 
 **Donations: PLACEHOLDER**
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Certifications:**
+
+• **JPMorgan Software Engineering Virtual Experience Program on Forage - May 2023**
+Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
 **KyoKyle64/KyoKyle64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
