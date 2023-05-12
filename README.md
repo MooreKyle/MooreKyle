@@ -27,6 +27,8 @@ Thank you for stopping by!
 **Certifications:**
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gfZ3N9dMRXakaoopY_1683679556751_completion_certificate.pdf
+Enrollment Verification Code LaF2oXk6H2DDT27Lu
 
 Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings.
 
