@@ -27,6 +27,7 @@ Thank you for stopping by!
 **Certifications:**
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**
+
 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gfZ3N9dMRXakaoopY_1683679556751_completion_certificate.pdf
 Enrollment Verification Code LaF2oXk6H2DDT27Lu
 
