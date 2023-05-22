@@ -31,7 +31,7 @@ Thank you for stopping by!
 
 
 
-Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings.
+Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings. Additional skills implemented include React,  Typescript, and Web Applications.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
