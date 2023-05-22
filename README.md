@@ -31,7 +31,7 @@ Thank you for stopping by!
 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gfZ3N9dMRXakaoopY_1683679556751_completion_certificate.pdf
 Enrollment Verification Code LaF2oXk6H2DDT27Lu
 
-Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings. Additional skills implemented include React,  Typescript, and Web Applications.
+Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings. Additional skills implemented include React, Typescript, and Web Applications.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
