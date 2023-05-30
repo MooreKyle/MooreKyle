@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **my resume, github, linkedin, indeed, handshake, and website portfolios**
 - 🌠 In the future, I will be working on **an instagram technology page**
 - 🌱 I’m currently learning __Computer Architecture, Computer Operating Systems, and Internet Computing.__
-- 🚀 In the future, I will be learning **...**
+- 🚀 In the future, I will be learning **soldering**
 - 💬 Ask me about **python, technology, and projects I have worked on.**
 - 📫 How to reach me: moorekl@protonmail.com
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
