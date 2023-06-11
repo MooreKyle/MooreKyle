@@ -18,7 +18,7 @@ Thank you for stopping by!
 
 **My Programming Languages: Python, C, C++, C#, Java, SQL, Hack Assembly**
 
-**My Other Skills/Resources: Microsoft Office, Git, Windows OS, Linux Ubuntu OS, Android OS, iOS, Photography, Raspbian OS**
+**My Other Skills/Resources: Microsoft Office, Git, Operating Systems (Windows OS, Linux Ubuntu OS, Android OS, iOS, Raspbian OS), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm), Nomenclatures & Hardware Configurations, Photography**
 
 **Donations: PLACEHOLDER**
 
