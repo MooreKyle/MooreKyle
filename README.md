@@ -16,7 +16,7 @@ Thank you for stopping by!
 
 
 
-**My Programming Languages: Python, C, C++, C#, Java, SQL, Hack Assembly**
+**My Programming Languages: C++, Python, C, C#, SQL, Java, Hack Assembly**
 
 **My Other Skills/Resources: Microsoft Office, Git, Operating Systems (Windows OS, Linux Ubuntu OS, Android OS, iOS, Raspbian OS), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm), Misc. Software Programs, Nomenclatures & Hardware Configurations, Photography**
 
