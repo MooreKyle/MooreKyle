@@ -15,6 +15,7 @@ If you have any interesting ideas for projects, especially in the area of IoT (I
 Thank you for stopping by!
 
 Feel free to check out my website portfolio: https://engineerkylem.wixsite.com/kylesportfolio
+
 More coming soon...
 
 
