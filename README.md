@@ -26,8 +26,6 @@ More coming soon...
 
 **My Other Skills/Resources: Microsoft Office, Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, Photography**
 
-**Donations: PLACEHOLDER**
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Certifications:**
