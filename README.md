@@ -24,7 +24,7 @@ More coming soon...
 
 **My Programming Languages: C++, Python, C, C#, SQL, Java**
 
-**My Other Skills/Resources: Microsoft Office, Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, Soldering, Photography**
+**My Other Skills/Resources: Microsoft Office, Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Soldering, Photography**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
