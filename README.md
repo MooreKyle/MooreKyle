@@ -1,4 +1,4 @@
-### Hello 👋, I am Kyle Moore - A Computer Science: Software Engineering Student who enjoys the aforementioned and Computer Programming. I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
+### Hello 👋, I am Kyle Moore - A Computer Science: Software Engineering Student who enjoys the aforementioned and Computer Programming! I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
 
 - 🔭 I’m currently working on **my github and website portfolios.**
 - 🌠 In the future, I will be working on **an instagram technology page and youtube technology channel.**
