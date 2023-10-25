@@ -1,10 +1,10 @@
 ### Hello 👋, I am Kyle Moore - A Computer Science: Software Engineering Student who enjoys the aforementioned and Computer Programming! I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
 
-- 🔭 I’m currently working on **my github and website portfolios.**
+- 🔭 I’m currently working on **my GitHub and website portfolios.**
 - 🌠 In the future, I will be working on **an Instagram technology page and YouTube technology channel.**
-- 🌱 I’m currently learning __soldering, Foundations of Cybersecurity, Mobile App Projects, and Data Mining & Machine Learning.__
+- 🌱 I’m currently learning __Soldering Iron, Foundations of Cybersecurity, Mobile App Projects, and Data Mining & Machine Learning.__
 - 🚀 In the future, I will be learning **Arduino UNO & Nano.**
-- 💬 Ask me about **python, technology, and projects I have completed/planned.**
+- 💬 Ask me about **Python, technology, and projects I have completed/planned.**
 - 📫 How to reach me: moorekl@protonmail.com
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
 
