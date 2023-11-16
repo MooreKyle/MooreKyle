@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **my GitHub and website portfolios.**
 - 🌠 In the future, I will be working on **an Instagram technology page and YouTube technology channel.**
-- 🌱 I’m currently learning __Soldering, Foundations of Cybersecurity, Mobile App Projects, and Data Mining & Machine Learning.__
-- 🚀 In the future, I will be learning **Arduino UNO & Nano.**
+- 🌱 I’m currently learning __Soldering, Electronics & Tools, Foundations of Cybersecurity, Mobile App Projects, and Data Mining & Machine Learning.__
+- 🚀 In the future, I will be learning **Arduino UNO & Nano, Computer Forensics, Full Stack Web Development, Intro to Deep Learning, & Theory of Computation**
 - 💬 Ask me about **Python, technology, and projects I have completed/planned.**
 - 📫 How to reach me: moorekl@protonmail.com
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
