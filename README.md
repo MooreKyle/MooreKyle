@@ -32,7 +32,7 @@ More coming soon...
 
 • **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**
 
-
+          
 
 
 • **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**
