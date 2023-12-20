@@ -32,7 +32,7 @@ More coming soon...
 
 • **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**
 
-https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
+          https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
 Certificate ID: 188341
 
 • **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**
