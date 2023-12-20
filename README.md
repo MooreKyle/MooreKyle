@@ -22,13 +22,23 @@ More coming soon...
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**My Programming Languages: C++, Python, C, C#, SQL, Java**
+**My Programming Languages: C++, Python, Swift, C, C#, SQL, Java**
 
-**My Other Skills/Resources: Microsoft Office, Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Soldering, Photography**
+**My Other Skills/Resources: Microsoft Office, Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm, Jupyter Notebook), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Cybersecurity, Soldering, Photography**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Certifications:**
+
+• **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**
+
+https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
+Certificate ID: 188341
+
+• **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**
+
+https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view
+Certificate ID: 192355
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**
 
