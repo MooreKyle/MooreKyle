@@ -32,13 +32,17 @@ More coming soon...
 
 • **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**
 
-          https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
+https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
 Certificate ID: 188341
+
+Demonstrated proficiency in utilizing tools like Wireshark, and software programs including MISP, Audit, Splunk, etc. to simulate real-world attacks and perform critical analysis relating to the effects of attacks on various systems, and best practices to perform to prevent or minimize destruction of various assets for individuals and groups. Measures include determining attackers through data mining, investigation and deep analysis of various files including through Splunk, enforcing DoS mitigation security measures through Audit, and researching the extensive history of past incidents of well-known attacks through MISP. Gained a foundational understanding of Cybersecurity along with invaluable and extensive information to continue learning further within the realm of digital security, all of which has built on my previous general knowledge.
 
 • **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**
 
 https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view
 Certificate ID: 192355
+
+Demonstrated expertise in building iOS apps with a large degree of attention to detail, ensuring apps have both comprehendable code and a sleek User Interface (UI). Achieved this through adding additional         features and quality-of-life elements to enhance applications for the user experience, while also increasing product quality. This includes aesthetics, additional features (i.e.: camera implementation, etc.). Implemented APIs, controllers (i.e.: tab bar, table view), Backend/server development (using back4app), and a variety of other features.
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**
 
