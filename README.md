@@ -47,7 +47,11 @@ Demonstrated expertise in building iOS apps with a large degree of attention to 
 
 
 
-Used Perspective data visualization software and Python to monitor stock price trends and create trading strategies. Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings. Additional skills implemented include React, Typescript, and Web Applications.
+• Set up a local dev environment by downloading the necessary files, tools and dependencies.
+• Fixed broken files in the repository to make web application output correctly.
+• Used JPMorgan Chase’s open source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.
+• Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings.
+• Additional skills implemented include React, Typescript, and Web Applications.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
