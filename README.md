@@ -12,7 +12,7 @@
 
 If you have any interesting ideas for projects, especially in the area of IoT (Internet of Things), I would love to hear about them and explore them. I would also like to hear about what you do in your field of study. Thank you for stopping by!
 
-Feel free to check out my website portfolio: https://engineerkylem.wixsite.com/kylesportfolio
+Feel free to check out my website portfolio (work in progress): https://engineerkylem.wixsite.com/kylesportfolio
 
 More coming soon...
 
@@ -22,7 +22,7 @@ More coming soon...
 
 **My Programming Languages: C++, Python, Swift, C, C#, SQL, Java**
 
-**My Other Skills/Resources: Microsoft Office, Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm, Jupyter Notebook), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Cybersecurity, Soldering, Photography**
+**My Other Skills/Resources: Microsoft Office, Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm, Jupyter Notebook, Xcode), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Cybersecurity, Soldering Iron, Documentation, Photography**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
