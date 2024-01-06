@@ -1,9 +1,9 @@
-### Hello 👋, I am Kyle Moore - A Computer Science: Software Engineering Student who enjoys the aforementioned and Computer Programming! I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
+### Hello 👋, I am Kyle Moore - A Computer Science: Software Engineering Student who enjoys the aforementioned and Computer Programming, with an emphasis in Cybersecurity and Artificial Intelligence (AI)! I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
 
 - 🔭 I’m currently working on **my GitHub and website portfolios, soldering projects**
 - 🌠 In the future, I will be working on **an Instagram technology page and YouTube technology channel.**
-- 🌱 I’m currently learning __Soldering Iron, and Electronics & Tools__
-- 🚀 In the future, I will be learning **Arduino UNO & NanoMCU variants, Applied Cryptography & Security, Full Stack Web Development, Intro to Deep Learning, & Theory of Computation**
+- 🌱 I’m currently learning __Soldering Iron, Electronics & Tools, Applied Cryptography & Security, Full Stack Web Development, Intro to Deep Learning, & Theory of Computation__
+- 🚀 In the future, I will be learning **Arduino UNO & NanoMCU variants**
 - 💬 Ask me about **Python, technology, and projects I have completed/planned.**
 - 📫 How to reach me: moorekl@protonmail.com
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
@@ -22,7 +22,7 @@ More coming soon...
 
 **My Programming Languages: C++, Python, Swift, C, C#, SQL, Java**
 
-**My Other Skills/Resources: Microsoft Office, Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm, Jupyter Notebook, Xcode), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Cybersecurity, Soldering Iron, Documentation, Photography**
+**My Other Skills/Resources: Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm, Jupyter Notebook, Xcode), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Cybersecurity, Soldering Iron, Documentation, Photography, Microsoft Office**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
