@@ -37,7 +37,6 @@ More coming soon...
   <blockquote>
 
    • Demonstrated mastery of essential cybersecurity tools, including Wireshark, MISP, Audit, and Splunk.  
-
    • Successfully simulated real-world cyberattacks and performed thorough analyses to assess their impact on diverse systems.    
 
    • Utilized data mining techniques to identify potential attackers and conducted extensive file analysis using Splunk.
