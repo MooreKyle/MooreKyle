@@ -20,7 +20,7 @@ More coming soon...
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**My Programming Languages: C++, Python, Swift, C, C#, SQL, Java**
+**My Programming Languages: C++, Python, Swift (w/ Storyboard), C, C#, SQL, Java**
 
 **My Other Skills/Resources: Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm, Jupyter Notebook, Xcode), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Cybersecurity, Soldering Iron, Documentation, Photography, Microsoft Office**
 
