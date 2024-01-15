@@ -33,25 +33,35 @@ More coming soon...
 https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
           Certificate ID: 188341
 
-Demonstrated proficiency in utilizing tools like Wireshark, and software programs including MISP, Audit, Splunk, etc. to simulate real-world attacks and perform critical analysis relating to the effects of attacks on various systems, while also learning best practices to prevent or minimize destruction of various assets for individuals and groups. Measures include determining attackers through data mining, investigation and deep analysis of various files including through Splunk, enforcing DoS mitigation security measures through Audit, and researching the extensive history of past incidents of well-known attacks through MISP, and utilizing networking, the OSI model, and protocols including IP addresses to thoroughly approach in the process of incident responses. Gained a foundational understanding of Cybersecurity along with invaluable and extensive information to continue learning further within the realm of digital security, all of which has built on my previous general knowledge.
+     • Demonstrated mastery of essential cybersecurity tools, including Wireshark, MISP, Audit, and Splunk.
+     • Successfully simulated real-world cyberattacks and performed thorough analyses to assess their impact on diverse systems.
+     • Utilized data mining techniques to identify potential attackers and conducted extensive file analysis using Splunk.
+     • Implemented effective Denial-of-Service (DoS) mitigation strategies using Audit.
+     • Conducted comprehensive research on the historical context of well-known attacks through MISP.
+     • Applied knowledge of networking, the OSI model, and IP protocols to execute precise incident response procedures.
+     • Acquired a strong foundational understanding of Cybersecurity, reinforcing and expanding my digital security expertise.
 
 • **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**
 
 https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view
           Certificate ID: 192355
 
-Demonstrated expertise in building iOS apps with a large degree of attention to detail, ensuring apps have both comprehendable code and a sleek User Interface (UI), all performed using Xcode on Mac OS. Achieved this through adding additional features and quality-of-life elements to enhance applications for the user experience, while also increasing product quality. This includes aesthetics, additional features (i.e.: camera implementation, etc.). Implemented APIs, controllers (i.e.: tab bar, table view), Backend/server development (using back4app), and a variety of other features. Greatly improved critical-thinking skills and problem-solving skills through extensive assessments of troubleshooting the IDEs handling of the applications, and common errors which appear during the application development process. Learned optimal procedures to properly develop iOS apps. Utilized and learned much more about Git, through the built-in support within Xcode, including branches.
+     • Demonstrated expertise in building iOS apps with meticulous attention to detail, ensuring both comprehensible code and sleek User Interfaces (UI). Proficiently utilized Xcode on macOS for development.
+     • Added additional features and quality-of-life elements to enhance app functionality and user experience. Improvements encompassed aesthetics, additional features (e.g., camera implementation), and more.
+     • Implemented various aspects of iOS app development, including APIs, controllers (e.g., tab bar, table view), backend/server development using back4app, and other essential features.
+     • Enhanced critical-thinking and problem-solving skills through extensive troubleshooting of IDEs during application development, addressing common errors, and optimizing development procedures.
+     • Utilized Git, including branches, with built-in support within Xcode for version control and collaborative development.
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**
 
 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gfZ3N9dMRXakaoopY_1683679556751_completion_certificate.pdf
 Enrollment Verification Code LaF2oXk6H2DDT27Lu
 
-• Set up a local dev environment by downloading the necessary files, tools and dependencies.
-• Fixed broken files in the repository to make web application output correctly.
-• Used JPMorgan Chase’s open source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.
-• Gained a greater fluency in command line, and Git, an integral application for programming. Furthermore, learned the importance of Git's tools for working with programming projects, especially within cooperative settings.
-• Additional skills implemented include React, Typescript, and Web Applications.
+     • Established a local development environment by downloading essential files, tools, and dependencies.
+     • Identified and rectified broken files in the repository, ensuring the correct output of the web application.
+     • Utilized JPMorgan Chase's open-source library, Perspective, to create a live graph for displaying data feeds in a clear and visually appealing manner, catering to trader monitoring needs.
+     • Developed fluency in command-line operations and Git, vital tools for effective programming. Emphasized the importance of Git for collaborative project work.
+     • Gained proficiency in React, Typescript, and web application development.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
