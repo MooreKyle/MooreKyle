@@ -63,6 +63,14 @@ Enrollment Verification Code LaF2oXk6H2DDT27Lu
      • Developed fluency in command-line operations and Git, vital tools for effective programming. Emphasized the importance of Git for collaborative project work.
      • Gained proficiency in React, Typescript, and web application development.
 
+<details>
+  <summary>Click to expand</summary>
+  
+  This is the content that will be collapsed by default. Users can click the summary above to expand and view this content.
+  
+  You can include any Markdown-formatted content here, including lists, paragraphs, and more.
+</details>
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!--
