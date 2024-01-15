@@ -30,7 +30,7 @@ More coming soon...
 
 • **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**
 
-
+  
           
 
      • Demonstrated mastery of essential cybersecurity tools, including Wireshark, MISP, Audit, and Splunk.
@@ -43,7 +43,7 @@ More coming soon...
 
 • **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**
 
-
+  
           
 
      • Demonstrated expertise in building iOS apps with meticulous attention to detail, ensuring both comprehensible code and sleek User Interfaces (UI). Proficiently utilized Xcode on macOS for development.
@@ -54,7 +54,7 @@ More coming soon...
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**
 
-
+  
 
 
      • Established a local development environment by downloading essential files, tools, and dependencies.
