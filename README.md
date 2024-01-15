@@ -30,7 +30,7 @@ More coming soon...
 
 • **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**
 Certificate ID: 188341  
-https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
+https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view    
 <details>
   <summary>Learn More...</summary>
      • Demonstrated mastery of essential cybersecurity tools, including Wireshark, MISP, Audit, and Splunk.
@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
 
 • **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**
 Certificate ID: 192355  
-https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view  
+https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view      
 <details>
   <summary>Learn More...</summary>
      • Demonstrated expertise in building iOS apps with meticulous attention to detail, ensuring both comprehensible code and sleek User Interfaces (UI). Proficiently utilized Xcode on macOS for development.
@@ -57,7 +57,7 @@ https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**
 Enrollment Verification Code LaF2oXk6H2DDT27Lu  
-https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gfZ3N9dMRXakaoopY_1683679556751_completion_certificate.pdf  
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gfZ3N9dMRXakaoopY_1683679556751_completion_certificate.pdf      
 <details>
   <summary>Learn More...</summary>
      • Established a local development environment by downloading essential files, tools, and dependencies.
