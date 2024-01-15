@@ -28,7 +28,7 @@ More coming soon...
 
 **Certifications:**
 
-• **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**
+• **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**  
   
     
 <details>
@@ -43,7 +43,7 @@ More coming soon...
 </details>
 
 
-• **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**
+• **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**  
   
       
 <details>
@@ -55,24 +55,28 @@ More coming soon...
      • Utilized Git, including branches, with built-in support within Xcode for version control and collaborative development.
 </details>
 
-• **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**
+• **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**  
   
       
 <details>
   <summary>Learn More...</summary>
+  <blockquote>
      • Established a local development environment by downloading essential files, tools, and dependencies.
      • Identified and rectified broken files in the repository, ensuring the correct output of the web application.
      • Utilized JPMorgan Chase's open-source library, Perspective, to create a live graph for displaying data feeds in a clear and visually appealing manner, catering to trader monitoring needs.
      • Developed fluency in command-line operations and Git, vital tools for effective programming. Emphasized the importance of Git for collaborative project work.
      • Gained proficiency in React, Typescript, and web application development.
+  </blockquote>
 </details>
 
 <details>
   <summary>Learn More...</summary>
+  <blockquote>
   
   This is the content that will be collapsed by default. Users can click the summary above to expand and view this content.
   
   You can include any Markdown-formatted content here, including lists, paragraphs, and more.
+  </blockquote>
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
