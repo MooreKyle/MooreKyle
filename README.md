@@ -59,8 +59,8 @@ https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view
 <details>
   <summary>Learn More...</summary>
   <blockquote>  
-     • Demonstrated expertise in building iOS apps with meticulous attention to detail, ensuring both comprehensible code and sleek User Interfaces (UI). Proficiently utilized Xcode on macOS for development.  
-     • Added additional features and quality-of-life elements to enhance app functionality and user experience. Improvements encompassed aesthetics, additional features (e.g., camera implementation), and more.  
+   • Demonstrated expertise in building iOS apps with meticulous attention to detail, ensuring both comprehensible code and sleek User Interfaces (UI). Proficiently utilized Xcode on macOS for development.  
+   • Added additional features and quality-of-life elements to enhance app functionality and user experience. Improvements encompassed aesthetics, additional features (e.g., camera implementation), and more.  
      • Implemented various aspects of iOS app development, including APIs, controllers (e.g., tab bar, table view), backend/server development using back4app, and other essential features.  
      • Enhanced critical-thinking and problem-solving skills through extensive troubleshooting of IDEs during application development, addressing common errors, and optimizing development procedures.  
      • Utilized Git, including branches, with built-in support within Xcode for version control and collaborative development.  
