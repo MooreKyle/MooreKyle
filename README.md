@@ -35,20 +35,13 @@ https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view
 <details>
   <summary>Learn More...</summary>
   <blockquote>
-
    • Demonstrated mastery of essential cybersecurity tools, including Wireshark, MISP, Audit, and Splunk.  
    • Successfully simulated real-world cyberattacks and performed thorough analyses to assess their impact on diverse systems.    
-
    • Utilized data mining techniques to identify potential attackers and conducted extensive file analysis using Splunk.
-
    • Implemented effective Denial-of-Service (DoS) mitigation strategies using Audit.
-
    • Conducted comprehensive research on the historical context of well-known attacks through MISP.
-
    • Applied knowledge of networking, the OSI model, and IP protocols to execute precise incident response procedures.
-
    • Acquired a strong foundational understanding of Cybersecurity, reinforcing and expanding my digital security expertise.
-   
   </blockquote>
 </details>    
 
