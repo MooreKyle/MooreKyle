@@ -1,7 +1,7 @@
 ### Hello 👋, I am Kyle Moore - A Computer Science: Software Engineering Student who enjoys the aforementioned and Computer Programming, with an emphasis in Cybersecurity and Artificial Intelligence (AI)! I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
 
 - 🔭 I’m currently working on **my GitHub and website portfolios, soldering projects, Earning my Cybersecurity minor, and Writing an AI-Technologies Guide 👀**
-- 🌠 In the future, I will be working on **an Instagram technology page and YouTube technology channel.**
+- 🌠 In the future, I will be working on **an Instagram technology page and YouTube technology channel, and Compiling a dataset on network performance, focusing on wired (via extender) and Wi-Fi connections to benchmark network performance.**
 - 🌱 I’m currently learning __Soldering Iron, Electronics & Tools, Applied Cryptography & Security, Full Stack Web Development, Intro to Deep Learning, & Theory of Computation__
 - 🚀 In the future, I will be learning **Arduino UNO & NanoMCU variants**
 - 💬 Ask me about **Python, technology, and projects I have completed/planned.**
