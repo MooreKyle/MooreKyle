@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **my GitHub and website portfolios, soldering projects, and Writing an AI-Technologies Guide 👀**
 - 🌠 In the future, I will be working on **an Instagram technology page and YouTube technology channel, and Compiling a dataset for benchmarking wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapter network performance**
-- 🌱 I’m currently learning __Soldering Iron, Electronics & Tools__
-- 🚀 In the future, I will be learning **Arduino UNO & NanoMCU variants, Principles of Software Engineering, and Engineering Design**
+- 🌱 I’m currently learning __Soldering Iron, Electronics & Tools, Principles of Software Engineering, Engineering Design, and Design/Analysis of Algorithms__
+- 🚀 In the future, I will be learning **Arduino UNO & NanoMCU variants**
 - 💬 Ask me about **Python, technology, and projects I have completed/planned.**
 - 📫 How to reach me: moorekl@protonmail.com
 - ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
