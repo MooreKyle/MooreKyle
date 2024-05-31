@@ -28,8 +28,8 @@ More coming soon...
 
 **Certifications:**
 
-• **CodePath Intermediate Web Development - Certificate of Achievement - May 2024**
-Certificate ID: 219502
+• **CodePath Intermediate Web Development - Certificate of Achievement - May 2024**  
+Certificate ID: 219502  
 [Certificate Link](https://drive.google.com/file/d/1a7vmgv8tFGtwuGMh3r-inA9y0OFoaHku/view?usp=sharing)
 
 <details>
