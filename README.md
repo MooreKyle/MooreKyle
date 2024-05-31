@@ -28,8 +28,8 @@ More coming soon...
 
 **Certifications:**
 
-• **CodePath Intermediate Web Development - Certificate of Achievement - May 2024**
-
+• **CodePath Intermediate Web Development - Certificate of Achievement - May 2024**  
+  
 [Certificate Link]()
 
 <details>
