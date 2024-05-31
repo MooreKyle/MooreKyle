@@ -28,6 +28,29 @@ More coming soon...
 
 **Certifications:**
 
+• **CodePath Intermediate Web Development - Certificate of Achievement - May 2024**
+
+[Certificate Link]()
+
+<details>
+  <summary>Learn More...</summary>
+  <blockquote>
+
+   • **Front-End Development**: Developed responsive and interactive user interfaces using JavaScript and React.
+
+   • **API Integration**: Enhanced functionalities by integrating APIs like CryptoCompare and Weatherbit, managing RESTful interfaces and secure data transactions efficiently with up to 250,000 lifetime and 50 daily API calls respectively.
+
+   • **Database Management**: Utilized Supabase’s free tier for backend database operations, managing up to 500 MB of database space and ensuring data integrity with unlimited API requests.
+
+   • **Deployment**: Successfully deployed a web application using Netlify, showcasing the project's functionality in a live environment while maintaining high availability.
+
+   • **Version Control**: Utilized Git for source code management, ensuring a structured and revertible development environment.
+
+   • **Project Management**: Applied principles of Agile-like methodologies for project planning and execution, enhancing project adaptability and iterative development, even in a solo context.
+   
+  </blockquote>
+</details>
+
 • **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**  
   
 [Certificate Link]()
