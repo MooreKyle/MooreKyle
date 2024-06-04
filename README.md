@@ -1,19 +1,19 @@
-### Hello 👋, I'm Kyle Moore - A passionate Computer Science: Software Engineering Student with a keen interest in Cybersecurity and Artificial Intelligence (AI)! I'm deeply curious and always eager to expnad my knowledge in Computers and Technology.
+### Hello 👋, I'm Kyle Moore - A passionate Computer Science: Software Engineering Student with a keen interest in Cybersecurity and Artificial Intelligence (AI)! I'm deeply curious and always eager to expand my knowledge in Computers and Technology.
 
-- 🔭 Currently working on:
-    • **Enhancing my GitHub and website portfolios**
-    • **Various soldering projects**
-    • **Writing an AI-Technologies Guide 👀**
-- 🌠 Future Projects:
-    • **Launching an Instagram technology page**
-    • **Starting a YouTube technology channel**
-    • **Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters**
-- 🌱 Currently learning:
-    • __Soldering Iron Techniques, Electronics & Tools, Principles of Software Engineering, Engineering Design, and Design/Analysis of Algorithms__
-- 🚀 In the future, I will be learning **Arduino UNO & NanoMCU variants**
-- 💬 Ask me about **Python, technology, and projects I've completed or planned.**
-- 📫 How to reach me: moorekl@protonmail.com
-- ⚡ Fun fact: I have a strong interest in the social sciences!
+- 🔭 Currently working on:  
+    • **Enhancing my GitHub and website portfolios**  
+    • **Various soldering projects**  
+    • **Writing an AI-Technologies Guide 👀**  
+- 🌠 Future Projects:  
+    • **Launching an Instagram technology page**  
+    • **Starting a YouTube technology channel**  
+    • **Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters**  
+- 🌱 Currently learning:  
+    • __Soldering Iron Techniques, Electronics & Tools, Principles of Software Engineering, Engineering Design, and Design/Analysis of Algorithms__  
+- 🚀 In the future, I will be learning **Arduino UNO & NanoMCU variants**  
+- 💬 Ask me about **Python, technology, and projects I've completed or planned.**  
+- 📫 How to reach me: moorekl@protonmail.com  
+- ⚡ Fun fact: I have a strong interest in the social sciences!  
 
 
 
