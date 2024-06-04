@@ -3,16 +3,13 @@
 - 🔭 Currently working on:  
       • **Enhancing my GitHub and website portfolios**  
       • **Writing an AI-Technologies Guide 👀**  
-- 🌠 Future Projects:  
-      • Launching an Instagram technology page  
-      • Starting a YouTube technology channel  
-      • Various soldering projects  
-      • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
 - 🌱 Currently learning:  
       • Soldering techniques, Electronics & Tools  
-      • Principles of Software Engineering  
-      • Engineering Design  
-      • Design/Analysis of Algorithms  
+      • Principles of Software Engineering, Engineering Design, Design/Analysis of Algorithms  
+- 🌠 Future Projects:  
+      • Launching an Instagram technology page, Starting a YouTube technology channel  
+      • Various soldering projects  
+      • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
 - 🚀 Looking Forward to Learning:  
       • Arduino UNO & NanoMCU variants  
 - 💬 Ask Me About:  
@@ -153,4 +150,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ Fun fact: I have a strong interest in the social sciences!  
