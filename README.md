@@ -1,28 +1,42 @@
-### Hello 👋, I am Kyle Moore - A Computer Science: Software Engineering Student who enjoys the aforementioned and Computer Programming, with an emphasis in Cybersecurity and Artificial Intelligence (AI)! I am very curious and enjoy learning, especially anything that encompasses Computers and Technology! I am always looking to expand on my knowledge and improve myself in various ways.
+### Hello 👋, I'm Kyle Moore - A passionate Computer Science: Software Engineering Student with a keen interest in Cybersecurity and Artificial Intelligence (AI)! I'm deeply curious and always eager to expnad my knowledge in Computers and Technology.
 
-- 🔭 I’m currently working on **my GitHub and website portfolios, soldering projects, and Writing an AI-Technologies Guide 👀**
-- 🌠 In the future, I will be working on **an Instagram technology page and YouTube technology channel, and Compiling a dataset for benchmarking wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapter network performance**
-- 🌱 I’m currently learning __Soldering Iron, Electronics & Tools, Principles of Software Engineering, Engineering Design, and Design/Analysis of Algorithms__
+- 🔭 Currently working on:
+    • **Enhancing my GitHub and website portfolios**
+    • **Various soldering projects**
+    • **Writing an AI-Technologies Guide 👀**
+- 🌠 Future Projects:
+    • **Launching an Instagram technology page**
+    • **Starting a YouTube technology channel**
+    • **Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters**
+- 🌱 Currently learning:
+    • __Soldering Iron Techniques, Electronics & Tools, Principles of Software Engineering, Engineering Design, and Design/Analysis of Algorithms__
 - 🚀 In the future, I will be learning **Arduino UNO & NanoMCU variants**
-- 💬 Ask me about **Python, technology, and projects I have completed/planned.**
+- 💬 Ask me about **Python, technology, and projects I've completed or planned.**
 - 📫 How to reach me: moorekl@protonmail.com
-- ⚡ Fun fact: I also greatly enjoy researching and studying social sciences!
+- ⚡ Fun fact: I have a strong interest in the social sciences!
 
 
 
-If you have any interesting ideas for projects, especially in the area of IoT (Internet of Things), I would love to hear about them and explore them. I would also like to hear about what you do in your field of study. Thank you for stopping by!
+If you have any interesting ideas for projects, especially in IoT (Internet of Things), I'd love to hear about them and explore potential collaborations. I'm also interested in learning about what you do in your field. Thanks for stopping by!
 
-Feel free to check out my website portfolio (work in progress): https://engineerkylem.wixsite.com/kylesportfolio
+Check out my in-progress website portfolio: https://engineerkylem.wixsite.com/kylesportfolio
 
-More coming soon...
+Stay tuned, as more updates are coming soon!
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**My Programming Languages: C++, Python, Swift (w/ Storyboard), HTML, CSS, JavaScript, C, C#, SQL, Java**
-
-**My Other Skills/Resources: Git, Virtualization, Operating Systems (Windows, Linux Ubuntu, Android, iOS, Raspbian), Command Line Interface (CLI), IDEs (Visual Studio, Pycharm, Jupyter Notebook, Xcode), Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Cybersecurity, Soldering Iron, Documentation, Photography, Microsoft Office**
+**My Programming Languages:**
+    • Proficient in: C++, Python.
+    • Familiar with: React, JavaScript, HTML, CSS, Swift (w/ Storyboard), C, C#, SQL, Java.
+**Tools & Technologies:**
+    • Proficient in: Git, Visual Studio, VirtualBox, VMWare Workstation 15, Windows & Linux (Ubuntu) OS' (+ CLI: Powershell, Bash).
+    • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode, File/Data Recovery & Analysis
+**Specialized Skills:**
+    • Documentation (written guides, project insights), Independent research, Cybersecurity, AI.
+**Other Skills/Resources**
+    • Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Soldering Iron, Photography, Microsoft Office**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
