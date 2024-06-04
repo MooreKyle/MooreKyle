@@ -27,16 +27,16 @@ Stay tuned, as more updates are coming soon!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**My Programming Languages:**
-    • Proficient in: C++, Python.
-    • Familiar with: React, JavaScript, HTML, CSS, Swift (w/ Storyboard), C, C#, SQL, Java.
-**Tools & Technologies:**
-    • Proficient in: Git, Visual Studio, VirtualBox, VMWare Workstation 15, Windows & Linux (Ubuntu) OS' (+ CLI: Powershell, Bash).
-    • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode, File/Data Recovery & Analysis
-**Specialized Skills:**
-    • Documentation (written guides, project insights), Independent research, Cybersecurity, AI.
-**Other Skills/Resources**
-    • Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Soldering Iron, Photography, Microsoft Office**
+**My Programming Languages:**  
+    • Proficient in: C++, Python.  
+    • Familiar with: React, JavaScript, HTML, CSS, Swift (w/ Storyboard), C, C#, SQL, Java.  
+**Tools & Technologies:**  
+    • Proficient in: Git, Visual Studio, VirtualBox, VMWare Workstation 15, Windows & Linux (Ubuntu) OS' (+ CLI: Powershell, Bash).  
+    • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode, File/Data Recovery & Analysis  
+**Specialized Skills:**  
+    • Documentation (written guides, project insights), Independent research, Cybersecurity, AI.  
+**Other Skills/Resources**  
+    • Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Soldering Iron, Photography, Microsoft Office**  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
