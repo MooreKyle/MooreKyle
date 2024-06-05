@@ -33,12 +33,12 @@ Stay tuned, as more updates are coming soon!
       • Proficient in: C++, Python.  
       • Familiar with: React, JavaScript, HTML, CSS, Swift (w/ Storyboard), C, C#, SQL, Java.  
 **Tools & Technologies:**  
-      • Proficient in: Git, Visual Studio, VirtualBox, VMWare Workstation 15, Windows & Linux (Ubuntu) OS' (+ CLI: Powershell, Bash).  
-      • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode, File/Data Recovery & Analysis  
+      • Proficient in: Git, Visual Studio, VirtualBox, VMWare Workstation 15, Windows & Linux (Ubuntu) OS' (+ CLI: Powershell, Bash), File/Data Recovery & Analysis.  
+      • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode.  
 **Specialized Skills:**  
       • Documentation (written guides, project insights), Independent research, Cybersecurity, AI.  
 **Additional Skills & Tools**  
-      • Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Soldering Iron, Photography, Microsoft Office  
+      • Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, Soldering Iron, Photography, Microsoft Office.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
