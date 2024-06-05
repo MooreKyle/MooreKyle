@@ -1,4 +1,4 @@
-### Hello 👋, I'm Kyle Moore - A passionate Computer Science: Software Engineering Student with a keen interest in Cybersecurity and Artificial Intelligence (AI)! I'm deeply curious and always eager to expand my knowledge in Computers and Technology.
+### Hello 👋, I'm Kyle Moore - A passionate Computer Science: Software Engineering Student with a keen interest in Cybersecurity and Artificial Intelligence (AI)! I'm deeply curious and always eager to expand my knowledge in Computers and Technology. I thrive on projects that challenge me to integrate theoretical knowledge with practical applications, driving innovation in technology. I am committed to understanding the complex interconnections within my field to better shape future technologies and solutions.
 
 - 🔭 Currently working on:  
       • **Enhancing my GitHub and website portfolios**  
@@ -7,7 +7,7 @@
       • Soldering techniques, Electronics & Tools  
       • Principles of Software Engineering, Engineering Design, Design/Analysis of Algorithms  
 - 🌠 Future Projects:  
-      • Launching an Instagram technology page, Starting a YouTube technology channel  
+      • **Launching an Instagram technology page, Starting a YouTube technology channel**  
       • Various soldering projects  
       • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
 - 🚀 Looking Forward to Learning:  
@@ -21,7 +21,7 @@
 
 If you have any interesting ideas for projects, especially in IoT (Internet of Things), I'd love to hear about them and explore potential collaborations. I'm also interested in learning about what you do in your field. Thanks for stopping by!
 
-Check out my in-progress website portfolio: https://engineerkylem.wixsite.com/kylesportfolio
+Check out my in-progress website portfolio: [EngineerKyleM](https://engineerkylem.wixsite.com/kylesportfolio)
 
 Stay tuned, as more updates are coming soon!
 
@@ -37,8 +37,8 @@ Stay tuned, as more updates are coming soon!
       • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode, File/Data Recovery & Analysis  
 **Specialized Skills:**  
       • Documentation (written guides, project insights), Independent research, Cybersecurity, AI.  
-**Other Skills/Resources**  
-      • Misc. Software Programs, Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Soldering Iron, Photography, Microsoft Office**  
+**Additional Skills & Tools**  
+      • Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, File/Data Recovery & Analysis, Soldering Iron, Photography, Microsoft Office  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ Stay tuned, as more updates are coming soon!
 
 • **CodePath Intermediate Web Development - Certificate of Achievement - May 2024**  
 Certificate ID: 219502  
-[Certificate Link](https://drive.google.com/file/d/1a7vmgv8tFGtwuGMh3r-inA9y0OFoaHku/view?usp=sharing)
+[View Certificate](https://drive.google.com/file/d/1a7vmgv8tFGtwuGMh3r-inA9y0OFoaHku/view?usp=sharing)
 
 <details>
   <summary>Learn More...</summary>
@@ -69,7 +69,7 @@ Certificate ID: 219502
 
 • **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**  
 Certificate ID: 188341  
-[Certificate Link](https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view)
+[View Certificate](https://drive.google.com/file/d/1AJ5BSaQCkPQY4wx7ZYNT_m0RDwx9G7Ts/view)
 
 <details>
   <summary>Learn More...</summary>
@@ -94,7 +94,7 @@ Certificate ID: 188341
 
 • **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**  
 Certificate ID: 192355  
-[Certificate Link](https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view)
+[View Certificate](https://drive.google.com/file/d/13gr-wILhl5TezI0gLkDO_Ju0DeuEI6OY/view)
 
 <details>
   <summary>Learn More...</summary>
@@ -115,7 +115,7 @@ Certificate ID: 192355
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**  
 Enrollment Verification Code LaF2oXk6H2DDT27Lu  
-[Certificate Link](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gfZ3N9dMRXakaoopY_1683679556751_completion_certificate.pdf)
+[View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_gfZ3N9dMRXakaoopY_1683679556751_completion_certificate.pdf)
 
 <details>
   <summary>Learn More...</summary>
