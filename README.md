@@ -4,7 +4,7 @@
       • **Enhancing my GitHub and website portfolios**  
       • **Writing an AI-Technologies Guide 👀**  
 - 🌱 Currently learning:  
-      • Soldering techniques, Electronics & Tools  
+                        • Soldering techniques, Electronics & Tools  
       • Principles of Software Engineering, Engineering Design, Design/Analysis of Algorithms  
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
