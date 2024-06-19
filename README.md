@@ -3,6 +3,7 @@
 - 🔭 Currently working on:  
       • **Enhancing my GitHub and website portfolios**  
       • **Writing an AI-Technologies Guide 👀**  
+      • Creating Command Line Interface (CLI) shortcuts for Windows OS for maintenance/troubleshooting  
 - 🌱 Currently learning:  
       • Soldering techniques, Electronics & Tools  
       • Principles of Software Engineering, Engineering Design, Design/Analysis of Algorithms  
