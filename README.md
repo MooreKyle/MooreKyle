@@ -5,8 +5,7 @@
       • **Writing an AI-Technologies Guide 👀**  
       • Creating Command Line Interface (CLI) shortcuts for Windows OS for maintenance/troubleshooting  
 - 🌱 Currently learning:  
-      • Soldering techniques, Electronics & Tools  
-      • Principles of Software Engineering, Engineering Design, Design/Analysis of Algorithms  
+      • Soldering techniques, Electronics & Tools   
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
       • Various soldering projects  
