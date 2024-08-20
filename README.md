@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Kyle Moore - A passionate Computer Science: Software Engineering Student with a keen interest in Cybersecurity and Artificial Intelligence (AI)! I'm deeply curious and always eager to expand my knowledge in Computers and Technology. I thrive on projects that challenge me to integrate theoretical knowledge with practical applications, driving innovation in technology. I am committed to understanding the complex interconnections within my field to better shape future technologies and solutions.
 
 - 🔭 Currently working on:  
-      • **Enhancing my GitHub and website portfolios**
+      • **Enhancing my GitHub and website portfolios**  
       • **Engineering Design Project - Air Force: Optimizing Aircraft Parking**  
       • **Writing an AI-Technologies Guide 👀**  
       • Creating Command Line Interface (CLI) shortcuts for Windows OS for maintenance/troubleshooting  
