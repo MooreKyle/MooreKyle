@@ -11,7 +11,7 @@
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
       • Various soldering projects  
-      • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters
+      • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
       • Reburishing various devices
 - 🚀 Looking Forward to Learning:  
       • Arduino UNO & NanoMCU variants  
