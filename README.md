@@ -7,7 +7,7 @@
       • Creating Command Line Interface (CLI) shortcuts for Windows OS for maintenance/troubleshooting  
 - 🌱 Currently learning:  
       • Soldering techniques, Electronics & Tools  
-      • Principles of Programming Languages, Engineering Design, Intro to Database Structures, and Intro to Artificial Intelligence  
+      • Principles of Programming Languages, Engineering Design, Intro to Database Structures, Intro to Artificial Intelligence, and Intro to Data Science & Analytics  
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
       • Various soldering projects  
