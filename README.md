@@ -10,9 +10,9 @@
       • Principles of Programming Languages, Engineering Design, Intro to Database Structures, Intro to Artificial Intelligence, and Intro to Data Science & Analytics  
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
-      • Various soldering projects  
+      • Various (de)soldering projects  
       • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
-      • Reburishing various devices
+      • Refurbishing various devices
 - 🚀 Looking Forward to Learning:  
       • Arduino UNO & NanoMCU variants  
 - 💬 Ask Me About:  
