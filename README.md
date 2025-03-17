@@ -1,17 +1,18 @@
 ### Hello 👋, I'm Kyle Moore - A passionate Computer Science: Software Engineering Student with a keen interest in Cybersecurity and Artificial Intelligence (AI)! I'm deeply curious and always eager to expand my knowledge in Computers and Technology. I thrive on projects that challenge me to integrate theoretical knowledge with practical applications, driving innovation in technology. I am committed to understanding the complex interconnections within my field to better shape future technologies and solutions.
 
 - 🔭 Currently working on:  
-      • **Enhancing my GitHub and website portfolios**    
+      • **Enhancing my GitHub and website portfolios**  
       • **Writing an AI-Technologies Guide 👀**  
-      • Creating Command Line Interface (CLI) shortcuts for Windows OS for maintenance/troubleshooting  
+      • Creating Custom Windows OS scripts & tools for maintenance/troubleshooting  
 - 🌱 Currently learning:  
       • Soldering techniques, Electronics & Tools  
       • Computer Architecture, Communication Networks, and IoT w/ Sensory Networks  
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
-      • Various (de)soldering projects  
+      • A bootable USB with Kali Linux (persistence), multi-boot support, and portable tools for penetration testing, cybersecurity, and system diagnostics.  
       • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
-      • Refurbishing various devices
+      • Various (de)soldering projects  
+      • Refurbishing various devices  
 - 🚀 Looking Forward to Learning:  
       • Arduino UNO & NanoMCU variants  
 - 💬 Ask Me About:  
