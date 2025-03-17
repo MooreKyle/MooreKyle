@@ -9,7 +9,7 @@
       • Computer Architecture, Communication Networks, and IoT w/ Sensory Networks  
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
-      • A bootable USB with Kali Linux (persistence), multi-boot support, and portable tools for penetration testing, cybersecurity, and system diagnostics.  
+      • A bootable USB with Kali Linux (persistence), multi-boot support, and portable tools for penetration testing, cybersecurity, system diagnostics and maintenance.  
       • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
       • Various (de)soldering projects  
       • Refurbishing various devices  
