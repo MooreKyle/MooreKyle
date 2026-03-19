@@ -1,12 +1,12 @@
-### Hello 👋, I'm Kyle Moore - A passionate Computer Science: Software Engineering Student with a keen interest in Cybersecurity and Artificial Intelligence (AI)! I'm deeply curious and always eager to expand my knowledge in Computers and Technology. I thrive on projects that challenge me to integrate theoretical knowledge with practical applications, driving innovation in technology. I am committed to understanding the complex interconnections within my field to better shape future technologies and solutions.
+### Hello 👋, I'm Kyle Moore — A passionate Computer Science graduate with a strong interest in Software Engineering, Cybersecurity, Artificial Intelligence (AI) and IT. I'm deeply curious and always eager to expand my knowledge in Computers and Technology. I thrive on projects that challenge me to connect theoretical knowledge with practical applications, and I'm committed to understanding the deeper interconnections within my field to help shape future technologies and solutions.
 
 - 🔭 Currently working on:  
       • **Enhancing my GitHub and website portfolios**  
-      • **Writing an AI-Technologies Guide 👀**  
+      • **Writing various technology-related guides 👀**  
       • Creating Custom Windows OS scripts & tools for maintenance/troubleshooting  
 - 🌱 Currently learning:  
       • Soldering techniques, Electronics & Tools  
-      • Computer Architecture, Communication Networks, and IoT w/ Sensory Networks  
+      • Windows system optimization and maintenance  
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
       • A bootable USB with Kali Linux (persistence), multi-boot support, and portable tools for penetration testing, cybersecurity, system diagnostics and maintenance.  
@@ -14,9 +14,9 @@
       • Various (de)soldering projects  
       • Refurbishing various devices  
 - 🚀 Looking Forward to Learning:  
-      • Arduino UNO & NanoMCU variants  
+      •Arduino, NodeMCU/NanoMCU, ESP32 and other practical microcontroller platforms  
 - 💬 Ask Me About:  
-      • **Python, technology, and projects I've completed or planned.**  
+      • **Technology, and projects I've completed or planned.**  
 - 📫 How to Reach Me:  
       • Email: moorekl@protonmail.com  
 
@@ -34,10 +34,10 @@ Stay tuned, as more updates are coming soon!
 
 **My Programming Languages:**  
       • Proficient in: C++, Python.  
-      • Familiar with: React, JavaScript, HTML, CSS, Swift (w/ Storyboard), C, C#, SQL, Java.  
+      • Familiar with: React, JavaScript, HTML5, CSS, Swift (w/ Storyboard), C, C#, SQL, Java.  
 **Tools & Technologies:**  
-      • Proficient in: Git, Visual Studio, VirtualBox, VMWare Workstation 15, Windows & Linux (Ubuntu) OS' (+ CLI: Powershell, Bash), File/Data Recovery & Analysis.  
-      • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode.  
+      • Proficient in: Git, Visual Studio, VirtualBox, VMware Workstation 15, Windows and Linux (Ubuntu), Command Line Interface work (Batch, Bash, PowerShell), ArcGIS Pro, File/Data Recovery & Analysis.  
+      • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode, MySQL Workbench, MongoDB.  
 **Specialized Skills:**  
       • Documentation (written guides, project insights), Independent research, Cybersecurity, AI.  
 **Additional Skills & Tools**  
@@ -45,7 +45,7 @@ Stay tuned, as more updates are coming soon!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Certifications:**
+**Certificates & Professional Training:**
 
 • **CodePath Intermediate Web Development - Certificate of Achievement - May 2024**  
   
