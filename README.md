@@ -1,23 +1,23 @@
-### Hello 👋, I'm Kyle Moore — A passionate Computer Science graduate with a strong interest in Software Engineering, Cybersecurity, Artificial Intelligence (AI), and IT. I'm deeply curious and always eager to expand my knowledge in computers and technology. I thrive on projects that challenge me to connect theoretical knowledge with practical applications, and I'm committed to understanding the deeper interconnections within my field to help shape future technologies and solutions.
+### Hello 👋, I'm Kyle Moore — a passionate Computer Science graduate with a strong interest in Software Engineering, Cybersecurity, Artificial Intelligence (AI), and IT! I'm deeply curious and always eager to expand my knowledge in computers and technology.  
+
+### I thrive on projects that challenge me to connect theoretical knowledge with practical applications, and I'm committed to understanding the deeper interconnections within my field to help shape future technologies and solutions.  
 
 - 🔭 Currently working on:  
       • **Enhancing my GitHub and website portfolios**  
       • **Writing hands-on technology guides and technical documentation 👀**  
-      • Creating custom Windows OS scripts & tools for maintenance/troubleshooting  
+      • **Creating custom Windows OS scripts and tools for maintenance and troubleshooting**  
 
 - 🌱 Currently learning:  
       • Soldering techniques, Electronics & Tools  
-      • Refining Windows system optimization, maintenance, and troubleshooting workflows
+      • Refining Windows system optimization, maintenance, and troubleshooting workflows  
 
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
-      • A bootable USB with Kali Linux (persistence), multi-boot support, and portable tools for penetration testing, cybersecurity, system diagnostics and maintenance.  
+      • A bootable USB with Kali Linux (persistence), multi-boot support, and portable tools for penetration testing, cybersecurity, system diagnostics, and maintenance  
       • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
       • Various (de)soldering projects  
       • Refurbishing various devices  
-
-- 🚀 Looking Forward to Learning:  
-      • Arduino, NodeMCU/NanoMCU, ESP32, and other practical microcontroller platforms  
+      • Exploring practical microcontroller platforms such as Arduino, NodeMCU/NanoMCU, and ESP32  
 
 - 💬 Ask Me About:  
       • **Technology and projects I've completed or planned.**  
@@ -39,13 +39,13 @@ Stay tuned — more updates are coming soon!
 
 **Tools & Technologies:**  
       • Proficient in: Git, Visual Studio, VirtualBox, VMware Workstation 15, Windows and Linux (Ubuntu), Command Line Interface work (Batch, Bash, PowerShell), ArcGIS Pro, File/Data Recovery and Analysis.  
-      • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode, MySQL Workbench, MongoDB.  
+      • Familiar with: Android, iOS, Raspbian, PyCharm, Jupyter Notebook, Xcode, MySQL Workbench, MongoDB.  
 
 **Specialized Skills:**  
       • Documentation (written guides, project insights), independent research, cybersecurity, AI.  
 
-**Additional Technical Skills**  
-      • Hardware components, terminology, and configuration, IoT devices, soldering  
+**Additional Technical Skills:**  
+      • Hardware components, terminology, and configuration, IoT devices, soldering.  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,21 +56,19 @@ Stay tuned — more updates are coming soon!
 [View Certificate]()
 
 <details>
-  <summary>Learn More...</summary>
+  <summary>More Details</summary>
   <blockquote>
 
-   • **Front-End Development**: Developed responsive and interactive user interfaces using JavaScript and React.
+   • Developed responsive full-stack web applications using JavaScript and React.
 
-   • **API Integration**: Enhanced functionalities by integrating APIs like CryptoCompare and Weatherbit, managing RESTful interfaces and secure data transactions efficiently with up to 250,000 lifetime and 50 daily API calls respectively.
+   • Integrated APIs such as CryptoCompare and Weatherbit to support dynamic data handling.
 
-   • **Database Management**: Utilized Supabase’s free tier for backend database operations, managing up to 500 MB of database space and ensuring data integrity with unlimited API requests.
+   • Worked with Supabase for backend operations, database handling, and data integrity.
 
-   • **Deployment**: Successfully deployed a web application using Netlify, showcasing the project's functionality in a live environment while maintaining high availability.
+   • Used Git for version control and applied Agile-style planning in solo development.
 
-   • **Version Control**: Utilized Git for source code management, ensuring a structured and revertible development environment.
+   • Deployed a live web application using Netlify.
 
-   • **Project Management**: Applied principles of Agile-like methodologies for project planning and execution, enhancing project adaptability and iterative development, even in a solo context.
-   
   </blockquote>
 </details>
 
@@ -79,23 +77,19 @@ Stay tuned — more updates are coming soon!
 [View Certificate]()
 
 <details>
-  <summary>Learn More...</summary>
+  <summary>More Details</summary>
   <blockquote>
 
-   • Demonstrated mastery of essential cybersecurity tools, including Wireshark, MISP, Audit, and Splunk.
+   • Simulated real-world cyberattacks and analyzed system impact across different scenarios.
 
-   • Successfully simulated real-world cyberattacks and performed thorough analyses to assess their impact on diverse systems.
+   • Used tools such as Splunk, MISP, and Audit for attacker identification, file analysis, and mitigation work.
 
-   • Utilized data mining techniques to identify potential attackers and conducted extensive file analysis using Splunk.
+   • Applied knowledge of networking, the OSI model, and IP protocols to support incident response procedures.
 
-   • Implemented effective Denial-of-Service (DoS) mitigation strategies using Audit.
+   • Implemented and studied Denial-of-Service (DoS) mitigation strategies.
 
-   • Conducted comprehensive research on the historical context of well-known attacks through MISP.
+   • Strengthened core cybersecurity knowledge through hands-on analysis and research.
 
-   • Applied knowledge of networking, the OSI model, and IP protocols to execute precise incident response procedures.
-
-   • Acquired a strong foundational understanding of Cybersecurity, reinforcing and expanding my digital security expertise.
-   
   </blockquote>
 </details>    
 
@@ -104,19 +98,19 @@ Stay tuned — more updates are coming soon!
 [View Certificate]()
 
 <details>
-  <summary>Learn More...</summary>
+  <summary>More Details</summary>
   <blockquote>
 
-   • Demonstrated expertise in building iOS apps with meticulous attention to detail, ensuring both comprehensible code and sleek User Interfaces (UI). Proficiently utilized Xcode on macOS for development.
+   • Developed iOS applications in Xcode with a focus on UI design, usability, and feature development.
 
-   • Added additional features and quality-of-life elements to enhance app functionality and user experience. Improvements encompassed aesthetics, additional features (e.g., camera implementation), and more.
+   • Worked with APIs, controllers, backend integration using Back4App, and other core iOS development features.
 
-   • Implemented various aspects of iOS app development, including APIs, controllers (e.g., tab bar, table view), backend/server development using back4app, and other essential features.
+   • Improved app functionality and user experience through quality-of-life enhancements and added features.
 
-   • Enhanced critical-thinking and problem-solving skills through extensive troubleshooting of IDEs during application development, addressing common errors, and optimizing development procedures.
+   • Strengthened debugging and troubleshooting skills through hands-on development in Xcode.
 
-   • Utilized Git, including branches, with built-in support within Xcode for version control and collaborative development.
-   
+   • Used Git within Xcode for version control and collaborative workflow support.
+
   </blockquote>
 </details>    
 
@@ -125,35 +119,18 @@ Stay tuned — more updates are coming soon!
 [View Certificate]()
 
 <details>
-  <summary>Learn More...</summary>
+  <summary>More Details</summary>
   <blockquote>
 
-   • Established a local development environment by downloading essential files, tools, and dependencies.
+   • Set up a local development environment by downloading and configuring required files, tools, and dependencies.
 
-   • Identified and rectified broken files in the repository, ensuring the correct output of the web application.
+   • Identified and fixed broken files in the repository to restore the intended web application behavior.
 
-   • Utilized JPMorgan Chase's open-source library, Perspective, to create a live graph for displaying data feeds in a clear and visually appealing manner, catering to trader monitoring needs.
+   • Used JPMorgan Chase’s Perspective library with Python to build a live data visualization graph.
 
-   • Developed fluency in command-line operations and Git, vital tools for effective programming. Emphasized the importance of Git for collaborative project work.
-
-   • Gained proficiency in React, Typescript, and web application development.
+   • Strengthened command-line, Git, React, and TypeScript skills in a simulated software engineering environment.
 
   </blockquote>
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-<!--
-**KyoKyle64/KyoKyle64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
