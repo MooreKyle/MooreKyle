@@ -1,47 +1,51 @@
-### Hello 👋, I'm Kyle Moore — A passionate Computer Science graduate with a strong interest in Software Engineering, Cybersecurity, Artificial Intelligence (AI) and IT. I'm deeply curious and always eager to expand my knowledge in Computers and Technology. I thrive on projects that challenge me to connect theoretical knowledge with practical applications, and I'm committed to understanding the deeper interconnections within my field to help shape future technologies and solutions.
+### Hello 👋, I'm Kyle Moore — A passionate Computer Science graduate with a strong interest in Software Engineering, Cybersecurity, Artificial Intelligence (AI), and IT. I'm deeply curious and always eager to expand my knowledge in computers and technology. I thrive on projects that challenge me to connect theoretical knowledge with practical applications, and I'm committed to understanding the deeper interconnections within my field to help shape future technologies and solutions.
 
 - 🔭 Currently working on:  
       • **Enhancing my GitHub and website portfolios**  
-      • **Writing various technology-related guides 👀**  
-      • Creating Custom Windows OS scripts & tools for maintenance/troubleshooting  
+      • **Writing hands-on technology guides and technical documentation 👀**  
+      • Creating custom Windows OS scripts & tools for maintenance/troubleshooting  
+
 - 🌱 Currently learning:  
       • Soldering techniques, Electronics & Tools  
-      • Windows system optimization and maintenance  
+      • Refining Windows system optimization, maintenance, and troubleshooting workflows
+
 - 🌠 Future Projects:  
       • **Launching an Instagram technology page, Starting a YouTube technology channel**  
       • A bootable USB with Kali Linux (persistence), multi-boot support, and portable tools for penetration testing, cybersecurity, system diagnostics and maintenance.  
       • Compiling a dataset for benchmarking network performance across wired (via Wi-Fi extender), wireless Wi-Fi, and powerline adapters  
       • Various (de)soldering projects  
       • Refurbishing various devices  
+
 - 🚀 Looking Forward to Learning:  
-      •Arduino, NodeMCU/NanoMCU, ESP32 and other practical microcontroller platforms  
+      • Arduino, NodeMCU/NanoMCU, ESP32, and other practical microcontroller platforms  
+
 - 💬 Ask Me About:  
-      • **Technology, and projects I've completed or planned.**  
+      • **Technology and projects I've completed or planned.**  
+
 - 📫 How to Reach Me:  
       • Email: moorekl@protonmail.com  
 
+If you have any interesting project ideas, especially in IoT (Internet of Things), I'd love to hear about them and explore potential collaborations. I'm also interested in learning about what you do in your field. Thanks for stopping by!
 
+🌐 Check out my in-progress website portfolio: [EngineerKyleM](https://engineerkylem.wixsite.com/kylesportfolio)
 
-If you have any interesting ideas for projects, especially in IoT (Internet of Things), I'd love to hear about them and explore potential collaborations. I'm also interested in learning about what you do in your field. Thanks for stopping by!
-
-Check out my in-progress website portfolio: [EngineerKyleM](https://engineerkylem.wixsite.com/kylesportfolio)
-
-Stay tuned, as more updates are coming soon!
-
-
+Stay tuned — more updates are coming soon!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**My Programming Languages:**  
+**Programming Languages / Web Technologies:**  
       • Proficient in: C++, Python.  
       • Familiar with: React, JavaScript, HTML5, CSS, Swift (w/ Storyboard), C, C#, SQL, Java.  
+
 **Tools & Technologies:**  
-      • Proficient in: Git, Visual Studio, VirtualBox, VMware Workstation 15, Windows and Linux (Ubuntu), Command Line Interface work (Batch, Bash, PowerShell), ArcGIS Pro, File/Data Recovery & Analysis.  
+      • Proficient in: Git, Visual Studio, VirtualBox, VMware Workstation 15, Windows and Linux (Ubuntu), Command Line Interface work (Batch, Bash, PowerShell), ArcGIS Pro, File/Data Recovery and Analysis.  
       • Familiar with: Android, iOS, Raspbian, Pycharm, Jupyter Notebook, Xcode, MySQL Workbench, MongoDB.  
+
 **Specialized Skills:**  
-      • Documentation (written guides, project insights), Independent research, Cybersecurity, AI.  
-**Additional Skills & Tools**  
-      • Nomenclatures & Hardware Configurations, Internet of Things (IoT) Devices, Soldering Iron, Photography, Microsoft Office.  
+      • Documentation (written guides, project insights), independent research, cybersecurity, AI.  
+
+**Additional Technical Skills**  
+      • Hardware components, terminology, and configuration, IoT devices, soldering  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
