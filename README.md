@@ -1,4 +1,4 @@
-### Hello 👋, I'm Kyle Moore — a passionate Computer Science graduate with a strong interest in Software Engineering, Cybersecurity, Artificial Intelligence (AI), and IT! I'm deeply curious and always eager to expand my knowledge in computers and technology.  
+### Hello people of the internet! 👋 I'm Kyle Moore — a passionate Computer Science graduate with a strong interest in Software Engineering, Cybersecurity, Artificial Intelligence (AI), and IT! I'm deeply curious and always eager to expand my knowledge in computers and technology.  
 
 ### I thrive on projects that challenge me to connect theoretical knowledge with practical applications, and I'm committed to understanding the deeper interconnections within my field to help shape future technologies and solutions.  
 
