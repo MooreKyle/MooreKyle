@@ -27,7 +27,7 @@
 
 If you have any interesting project ideas, especially in IoT (Internet of Things), I'd love to hear about them and explore potential collaborations. I'm also interested in learning about what you do in your field. Thanks for stopping by!
 
-🌐 Check out my in-progress website portfolio: [EngineerKyleM](https://engineerkylem.wixsite.com/kylesportfolio)
+🌐 Check out my in-progress website portfolio: [EngineerKyleM](https://kyle-portfolio-cod.pages.dev/)
 
 Stay tuned — more updates are coming soon!
 
