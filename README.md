@@ -52,8 +52,7 @@ Stay tuned — more updates are coming soon!
 **Certificates & Professional Training:**
 
 • **CodePath Intermediate Web Development - Certificate of Achievement - May 2024**  
-  
-[View Certificate]()
+[View Certificate](assets/certs/codepath-web-dev-cert-redacted.pdf)
 
 <details>
   <summary>More Details</summary>
@@ -73,8 +72,7 @@ Stay tuned — more updates are coming soon!
 </details>
 
 • **CodePath Intermediate Cybersecurity - Certificate of Achievement - Dec 2023**  
-  
-[View Certificate]()
+[View Certificate](assets/certs/codepath-cybersecurity-cert-redacted.pdf)
 
 <details>
   <summary>More Details</summary>
@@ -94,8 +92,7 @@ Stay tuned — more updates are coming soon!
 </details>    
 
 • **CodePath Intermediate iOS Development - Certificate of Achievement - Dec 2023**  
-  
-[View Certificate]()
+[View Certificate](assets/certs/codepath-ios-cert-redacted.pdf)
 
 <details>
   <summary>More Details</summary>
@@ -115,8 +112,7 @@ Stay tuned — more updates are coming soon!
 </details>    
 
 • **JPMorgan Chase & Co. Software Engineering Virtual Experience Program Participant on Forage - May 2023**  
-  
-[View Certificate]()
+[View Certificate](assets/certs/jpmorgan-se-forage-cert-redacted.pdf)
 
 <details>
   <summary>More Details</summary>
