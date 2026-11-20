@@ -8,7 +8,7 @@
       • **Creating custom Windows OS scripts and tools for maintenance and troubleshooting**  
 
 - 🌱 Currently learning:  
-      • Soldering techniques, Electronics & Tools  
+      • Studying for the CompTIA Security+ certification  
       • Refining Windows system optimization, maintenance, and troubleshooting workflows  
 
 - 🌠 Future Projects:  
